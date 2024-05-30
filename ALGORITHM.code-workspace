@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../ALGORITHM"
+		},
+		{
+			"path": "../js-func"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../Js-Dom2"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Js-Dom",
+		"liveServer.settings.port": 5501
+	}
+}
